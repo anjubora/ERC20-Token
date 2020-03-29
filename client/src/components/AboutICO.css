@@ -1,0 +1,13 @@
+#about {
+
+height:950px;
+background-color: #ECF0F1 ;
+
+}
+
+#imagesection {
+    background-image: url('../ico.jpg');
+    background-color:black;
+    border: 2 solid;
+
+}
